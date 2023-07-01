@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manikanta4mudedla
+- 👋 Hi, I’m Manikanta Mudedla
 - 👀 I’m interested in DevOps and Cloud Technologies
 - 🌱 I’m currently learning python and DevOps
 - 💞️ I’m looking to collaborate on ...
