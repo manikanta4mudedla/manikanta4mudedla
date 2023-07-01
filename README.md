@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Cloud Technologies
 - 🌱 I’m currently learning python and DevOps
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at mudedlamanikanta1997@gmail.com
 
 <!---
 manikanta4mudedla/manikanta4mudedla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
